@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713656624276",
+    "project_id": "inso-220cd",
+    "storage_bucket": "inso-220cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713656624276:android:7297ab953554400fad0081",
+        "android_client_info": {
+          "package_name": "com.example.inso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713656624276-264j9fbbifkgsv2i2lli5gmdiotadc6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQGVp5pl2yNYqRLr6mt_fF3OI05bw-LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713656624276-264j9fbbifkgsv2i2lli5gmdiotadc6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
